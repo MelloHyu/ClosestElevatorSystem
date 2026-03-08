@@ -15,6 +15,9 @@ This assignment demonstrates:
 * Request queue management
 * Smooth animation and state handling
 
+##Screenshots
+<img width="1204" height="753" alt="{38339C1E-A7F8-4B26-AF1F-C42AD1CC769A}" src="https://github.com/user-attachments/assets/74e58546-76be-4fcc-ae6c-4abd49e190f1" />
+
 ---
 
 # Features
